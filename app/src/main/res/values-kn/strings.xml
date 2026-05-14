@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">ಗ್ರಾಮ ಖಾತಾ</string>
+
+        <string name="login">ಲಾಗಿನ್</string>
+        <string name="signup">ಖಾತೆ ತೆರೆಯಿರಿ</string>
+        <string name="forgot_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರಾ?</string>
+
+        <string name="username">ಬಳಕೆದಾರ ಹೆಸರು</string>
+        <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+
+        <string name="add_customer">ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+        <string name="customer_name">ಗ್ರಾಹಕರ ಹೆಸರು</string>
+        <string name="phone_number">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
+
+        <string name="daily_report">ದೈನಂದಿನ ವರದಿ</string>
+
+        <string name="give">ಕೊಡಿ +</string>
+        <string name="take">ಪಡೆದುಕೊಳ್ಳಿ -</string>
+
+</resources>
